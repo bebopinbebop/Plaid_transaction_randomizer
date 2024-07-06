@@ -1,0 +1,65 @@
+{
+        "account_id": "d3F7gTmYn1bVc5xQo2r4eUg9j0l8o7Mm1Hn9l",
+        "account_owner": "null",
+        "amount": "27.07",
+        "authorized_date": "2023-08-14",
+        "authorized_datetime": "null",
+        "category": [
+            "Travel",
+            "Taxi"
+        ],
+        "category_id": "22016000",
+        "check_number": "null",
+        "counterparties": [
+            {
+                "confidence_level": "VERY_HIGH",
+                "entity_id": "eyg8o776k0QmNgVpAmaQj4WgzW9Qzo6O51gdd",
+                "logo_url": "https://plaid-merchant-logos.plaid.com/uber_1060.png",
+                "name": "Uber",
+                "phone_number": "null",
+                "type": "merchant",
+                "website": "uber.com"
+            }
+        ],
+        "date": "2024-03-08",
+        "datetime": "null",
+        "iso_currency_code": "USD",
+        "location": {
+            "address": "null",
+            "city": "null",
+            "country": "null",
+            "lat": "null",
+            "lon": "null",
+            "postal_code": "null",
+            "region": "null",
+            "store_number": "null"
+        },
+        "logo_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSUP7o5hVapDXP_84MHh6rtZJGn_K1seonPNWflKpiv8fJbn2plA6zpaCYpoN3tFK-I7Mk&usqp=CAU",
+        "merchant_entity_id": "eyg8o776k0QmNgVpAmaQj4WgzW9Qzo6O51gdd",
+        "merchant_name": "Bank of America",
+        "name": "Uber 072515 SF**POOL**",
+        "payment_channel": "online",
+        "payment_meta": {
+            "by_order_of": "null",
+            "payee": "null",
+            "payer": "null",
+            "payment_method": "null",
+            "payment_processor": "null",
+            "ppd_id": "null",
+            "reason": "null",
+            "reference_number": "null"
+        },
+        "pending": "false,",
+        "pending_transaction_id": "null",
+        "personal_finance_category": {
+            "confidence_level": "VERY_HIGH",
+            "detailed": "TRANSPORTATION_TAXIS_AND_RIDE_SHARES",
+            "primary": "TRANSPORTATION"
+        },
+        "personal_finance_category_icon_url": "https://plaid-category-icons.plaid.com/PFC_TRANSPORTATION.png",
+        "transaction_code": "null",
+        "transaction_id": "k38rQGNWNkuW5xbRg8DpiLByvnbm77tL6NKnD",
+        "transaction_type": "special",
+        "unofficial_currency_code": "null",
+        "website": "uber.com"
+    }
